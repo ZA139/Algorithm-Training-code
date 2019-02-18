@@ -18,5 +18,14 @@
     <ClCompile Include="韩信点兵.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数据统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="水仙花.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="倒三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
