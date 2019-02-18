@@ -27,5 +27,14 @@
     <ClCompile Include="倒三角形.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="子序列的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分数化小数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排列(permutation).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
