@@ -6,7 +6,7 @@ int main(void)
 	{
 		if (a > 1e6 || b > 1e6 || c > 100 || c < 0)
 			break;
-		if (a == 0 && b == a & c == a)
+		if (a == 0 && b == a && c == a)
 			break;
 		counts++;
 		double d = a / b;
