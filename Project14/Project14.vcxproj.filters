@@ -36,5 +36,8 @@
     <ClCompile Include="排列(permutation).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="浮点数陷阱.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
