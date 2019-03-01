@@ -36,5 +36,14 @@
     <ClCompile Include="回文词（Palindromes）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="猜数字游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Digit Generator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="环状序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
