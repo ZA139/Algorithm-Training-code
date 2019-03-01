@@ -34,6 +34,6 @@ int main(void)
 		}
 		putchar('\n');
 	}
-	system("pasue");
+//	system("pasue");
 	return 0;
 }
