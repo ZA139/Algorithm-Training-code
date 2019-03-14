@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Chapter 3 Source Code\Tex.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="..\Chapter 3 Source Code\分式问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -45,5 +42,37 @@
     <ClCompile Include="环状序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Molar Mass sln2%28accepted%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="得分sln2%28WA%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="得分%28AC%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Molar Mass（Uva1586%29%28WA%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Digit Counting(Uva1225).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter 3 Source Code\Tex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzle%28Uva227%29-%28AC%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzle%28Uva227%29%28WA%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input%28Uva227%29.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="output%28Uva227%29.txt">
+      <Filter>资源文件</Filter>
+    </Text>
   </ItemGroup>
 </Project>

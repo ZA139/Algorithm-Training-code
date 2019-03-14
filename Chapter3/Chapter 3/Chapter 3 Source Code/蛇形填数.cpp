@@ -23,6 +23,6 @@ int main(void)
 			printf("%3d", a[x][y]);
 	     printf("\n");
 	}
-	system("pause");
+	//system("pause");
 	return 0;
 }
